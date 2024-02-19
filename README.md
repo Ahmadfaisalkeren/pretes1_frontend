@@ -1,8 +1,31 @@
-# React + Vite
+# Pretest 1 Varnion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Berikut ini adalah hasil dari pengembangan aplikasi sesuai dengan yang telah ditentukan
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+```bash
+git clone https://github.com/Ahmadfaisalkeren/pretes1_frontend.git your-folder
+```
+
+## Usage
+
+Setelah clone selesai, eksekusi command dibawah ini
+
+```python
+Run:
+
+npm install
+npm run dev
+pastikan untuk run pretest backend terlebih dahulu 
+agar frontend dapat fetch data API dari Backend
+
+
+```
+
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
